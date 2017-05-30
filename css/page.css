@@ -1,0 +1,17 @@
+p:nth-of-type(4){
+    font-size: 14px;
+    position: relative;
+    top: 16px;
+    left: 12px;
+}
+
+p, h3, h1, ul{
+    left: 20px;
+}
+
+*{
+  font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+  color: #161616;
+  line-height: 1.2;
+  position: relative;
+}
